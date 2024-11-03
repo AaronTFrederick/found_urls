@@ -4,8 +4,8 @@ import os
 import subprocess
 
 # Paths to the input and output files
-file_path = r'C:\Users\aaron\OneDrive\Documents\TestNameCheck.txt'
-output_file_path = r"H:\My Drive\Found Url's\found_urls.txt"
+file_path = r"/home/aaron_frederick/TestNameCheck.txt"
+output_file_path = r"/home/aaron_frederick/found_urls.txt"
 
 # GitHub configuration (replace with your details)
 username = "AaronTFrederick"
