@@ -11,11 +11,13 @@ https://api.mojang.com/users/profiles/minecraft/aad5
 https://api.mojang.com/users/profiles/minecraft/aad6
 https://api.mojang.com/users/profiles/minecraft/aad8
 https://api.mojang.com/users/profiles/minecraft/aad9
+https://api.mojang.com/users/profiles/minecraft/aadj
 https://api.mojang.com/users/profiles/minecraft/aae4
 https://api.mojang.com/users/profiles/minecraft/aae5
 https://api.mojang.com/users/profiles/minecraft/aae6
 https://api.mojang.com/users/profiles/minecraft/aae7
 https://api.mojang.com/users/profiles/minecraft/aae8
+https://api.mojang.com/users/profiles/minecraft/aaec
 https://api.mojang.com/users/profiles/minecraft/aaeq
 https://api.mojang.com/users/profiles/minecraft/aaf0
 https://api.mojang.com/users/profiles/minecraft/aaf2
@@ -60,6 +62,7 @@ https://api.mojang.com/users/profiles/minecraft/aaj5
 https://api.mojang.com/users/profiles/minecraft/aaj6
 https://api.mojang.com/users/profiles/minecraft/aajd
 https://api.mojang.com/users/profiles/minecraft/aajk
+https://api.mojang.com/users/profiles/minecraft/aajm
 https://api.mojang.com/users/profiles/minecraft/aajp
 https://api.mojang.com/users/profiles/minecraft/aajw
 https://api.mojang.com/users/profiles/minecraft/aak2
