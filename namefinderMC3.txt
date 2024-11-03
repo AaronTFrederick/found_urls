@@ -4,7 +4,7 @@ import os
 import subprocess
 
 # Paths to the input and output files
-file_path = r"/home/aaron_frederick/TestNameCheck.txt"
+file_path = r"TestNameCheck.txt"
 output_file_path = r"found_urls.txt"
 
 # GitHub configuration (replace with your details)
