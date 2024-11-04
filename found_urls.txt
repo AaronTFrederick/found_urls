@@ -2,6 +2,7 @@ https://api.mojang.com/users/profiles/minecraft/aab5
 https://api.mojang.com/users/profiles/minecraft/aab6
 https://api.mojang.com/users/profiles/minecraft/aab8
 https://api.mojang.com/users/profiles/minecraft/aab9
+https://api.mojang.com/users/profiles/minecraft/aab_
 https://api.mojang.com/users/profiles/minecraft/aac0
 https://api.mojang.com/users/profiles/minecraft/aac7
 https://api.mojang.com/users/profiles/minecraft/aac9
