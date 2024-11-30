@@ -69,6 +69,7 @@ https://api.mojang.com/users/profiles/minecraft/aajw
 https://api.mojang.com/users/profiles/minecraft/aak2
 https://api.mojang.com/users/profiles/minecraft/aakb
 https://api.mojang.com/users/profiles/minecraft/aakd
+https://api.mojang.com/users/profiles/minecraft/aakg
 https://api.mojang.com/users/profiles/minecraft/aakq
 https://api.mojang.com/users/profiles/minecraft/aakr
 https://api.mojang.com/users/profiles/minecraft/aakv
